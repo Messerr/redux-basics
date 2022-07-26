@@ -6,4 +6,4 @@
 
 [Udemy Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-[Mirrored From](https://gitlab.davidmesser.io/davidmesser/redux-basics)
+Mirrored from [Gitlab](https://gitlab.davidmesser.io/davidmesser/redux-basics)
